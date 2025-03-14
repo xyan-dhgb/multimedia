@@ -282,4 +282,10 @@ Router(config)# do wr
 | 1  | SCCP    | Giao thức điều khiển IP Phone với Call Manager |
 | 2  | DHCP    | Cung cấp địa chỉ IP động cho IP Phone |
 
+- Minh chứng gói tin SCCP
+![Minh chứng SCCP](/asset/sccp-packet.png)
+
+- Minh chứng gói tin DHCP
+![Minh chứng DHCP](/asset/dhcp-packet.png)
+
 **Link báo cáo chi tiết:** [Xem trên Google Drive](https://drive.google.com/file/d/1YqRJB__jni3UAuQggY4ziK_KFhD6TtYr/view?usp=sharing)
